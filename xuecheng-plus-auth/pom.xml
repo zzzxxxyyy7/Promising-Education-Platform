@@ -10,7 +10,6 @@
     </parent>
     <artifactId>xuecheng-plus-auth</artifactId>
 
-
     <dependencies>
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
@@ -115,6 +114,5 @@
             </plugin>
         </plugins>
     </build>
-
 
 </project>
